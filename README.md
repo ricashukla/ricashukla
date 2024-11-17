@@ -35,7 +35,7 @@ I'm an MSc Data Science student with a solid foundation in both *web development
 - Created predictive models to enhance personalized medicine, leveraging deep learning techniques for better accuracy.
 
 ## 📫 Contact Information
-- *Email*: richa.shukla0210@.com
+- *Email*: richa.shukla0210@gmail.com
 - *LinkedIn*: [richa-shukla-791b86316](#)
 - *Portfolio*: [My Portfolio](#)
 
