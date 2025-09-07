@@ -1,5 +1,3 @@
-Here's a Markdown code template for your GitHub profile README:
-
 # 👋 Hello, I'm Richa Shukla
 
 ## 🌱 About Me
